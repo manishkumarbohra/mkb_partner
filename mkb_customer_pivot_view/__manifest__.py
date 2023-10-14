@@ -16,7 +16,7 @@
     "data": [
         'views/customer_pivot_view.xml',
     ],
-    'images': ['static/description/mkb_customer_pivot.png'],
+    'images': ['static/description/banner.png'],
     'depends': ['contacts'],
     'installable': True,
     'auto_install': False,
